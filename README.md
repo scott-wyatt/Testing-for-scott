@@ -1,2 +1,1 @@
-# Testing-for-scott
-Testing prino
+# Built with [primo](https://primo.so)
